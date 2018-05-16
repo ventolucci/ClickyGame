@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Holtwood One SC', serif;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+   
+}
+
+.navbar li {
+    font-size: 3.5em;
+}
+
+.navbar li {
+    font-size: 1.8em;
+}
+
+.row{
+    
+}

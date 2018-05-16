@@ -1,0 +1,17 @@
+.titlebox {
+    background-color: gray;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Holtwood One SC', serif;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+    
+}
+
+.titlebox h1 {
+    font-size: 3.5em;
+}
+
+.titlebox p {
+    font-size: 1.8em;
+}
