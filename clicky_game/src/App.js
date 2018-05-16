@@ -80,7 +80,8 @@ class App extends Component {
         />
         <Title />
         <div className="container">
-          <div className="row">
+          
+          
             {this.state.players.map(player => (
               <PlayerCard
                 shufflePlayers={this.shufflePlayers}
@@ -90,7 +91,8 @@ class App extends Component {
                 image={player.image}
               />
             ))}
-          </div>
+            
+          
         </div>
        
       </div>
